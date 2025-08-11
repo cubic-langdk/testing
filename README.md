@@ -1,3 +1,6 @@
+# OMS Helper
+Little test project using Mantine, Tanstack Router/Query. Looking into setting up some small OMS tests from a web client. 
+
 # Mantine Vite template
 
 ## Features
